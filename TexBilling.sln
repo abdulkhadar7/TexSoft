@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexBilling", "TexBilling\TexBilling.csproj", "{CCC85740-E64E-4C03-B157-E3AECEC34F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{A0C9E023-C35A-4290-93D6-9E5435E4F36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{6613668F-C497-4BAB-A317-7ECBAA3A5E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC85740-E64E-4C03-B157-E3AECEC34F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC85740-E64E-4C03-B157-E3AECEC34F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC85740-E64E-4C03-B157-E3AECEC34F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC85740-E64E-4C03-B157-E3AECEC34F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C9E023-C35A-4290-93D6-9E5435E4F36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C9E023-C35A-4290-93D6-9E5435E4F36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C9E023-C35A-4290-93D6-9E5435E4F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C9E023-C35A-4290-93D6-9E5435E4F36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6613668F-C497-4BAB-A317-7ECBAA3A5E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6613668F-C497-4BAB-A317-7ECBAA3A5E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6613668F-C497-4BAB-A317-7ECBAA3A5E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6613668F-C497-4BAB-A317-7ECBAA3A5E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
